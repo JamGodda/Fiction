@@ -1,0 +1,4 @@
+﻿  Fiction.cpp
+c:\users\hotjs\desktop\interactivefiction\fiction\fiction\fiction.cpp(54): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\hotjs\desktop\interactivefiction\fiction\fiction\fiction.cpp(135): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Fiction.vcxproj -> C:\Users\hotjs\Desktop\InteractiveFiction\Fiction\Debug\Fiction.exe
